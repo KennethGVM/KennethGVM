@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,django,java,spring,mysql,postgresql,mongodb,git,github,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,django,flask,mysql,postgresql,supabase,git,github" />
 </p>
 
 <!-- Estadísticas de GitHub -->
