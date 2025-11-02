@@ -26,9 +26,9 @@ Aquí algunos de los proyectos que más me representan como desarrollador 👇
 |-------------|----------------|----------------|
 | **📦 Sistema de Inventario y Facturación** | Aplicación completa para la gestión de productos, compras y ventas, con lógica de inventario automatizada. | Django REST, React, PostgreSQL |
 | **🌐 Portafolio Web Personal** | Sitio web interactivo que muestra mis habilidades, trayectoria y proyectos. | React, TailwindCSS |
-| **📱 Dashboard de Ventas** | Panel de control con métricas y reportes dinámicos conectados a una base de datos en tiempo real. | React, Supabase, Chart.js |
+| **📱 Dashboard de Ventas** | Panel de control con métricas y reportes dinámicos conectados a una base de datos en tiempo real. | React, Supabase |
 | **🧠 API de Productos Inteligente** | API REST con autenticación, control de acceso y endpoints dinámicos para productos. | Django REST Framework |
-| **🗂️ CMS con Strapi (en desarrollo)** | Proyecto en curso para gestionar contenido dinámico de forma modular y flexible. | Strapi, React |
+| **🗂️ CMS con Strapi (en desarrollo)** | Proyecto en curso para gestionar contenido dinámico de forma modular y flexible. | Strapi|
 
 ---
 
