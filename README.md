@@ -1,5 +1,5 @@
 <!-- Encabezado animado -->
-<h1 align="center">¡Hola, soy Kenneth! 👋</h1>
+<h1 align="center">¡Hola, soy Kenneth Vanegas! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=30AADD&center=true&vCenter=true&lines=Desarrollador+Full+Stack;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+tecnología+y+la+innovación;Siempre+aprendiendo+nuevas+cosas!" />
 </p>
