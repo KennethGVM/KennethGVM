@@ -36,7 +36,6 @@ Aquí algunos de los proyectos que más me representan como desarrollador 👇
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" />
   <img src="https://skillicons.dev/icons?i=js,ts,react,npm,vite,nodejs,nestjs,express,html,css,tailwind,python,django,flask,mysql,postgresql,supabase,git,github,vscode"/>
 </p>
 
