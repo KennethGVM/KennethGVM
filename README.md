@@ -36,7 +36,7 @@ Aquí algunos de los proyectos que más me representan como desarrollador 👇
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,django,flask,mysql,postgresql,supabase,git,github,database" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,django,flask,mysql,postgresql,supabase,git,github" />
 </p>
 
 <p align="center">
